@@ -15,7 +15,6 @@
   "bugs": {
     "url": "https://github.com/yuya-dep/react-app/issues"
   },
-  "homepage": "https://yuya-dep.github.io/react-app/",
   "dependencies": {
     "create-react-app": "^4.0.3"
   }
