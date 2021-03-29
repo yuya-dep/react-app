@@ -1,8 +1,8 @@
 import React from 'react';
 
-type Props = {
-    value: number
-}
+// type Props = {
+//     value: number
+// }
 
 export class GameBoardSquareComponent extends React.Component{
   render() {

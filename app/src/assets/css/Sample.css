@@ -1,0 +1,119 @@
+.FigmatoReact {
+  background-color: #f9f9f9;
+}
+.Title {
+  width: 643px;
+  height: 109px;
+  margin: 318px 60px;
+  color: #000000;
+  font-family: Inter, sans-serif;
+  font-size: 90px;
+  font-weight: 500;
+  line-height: 105.46875px;
+  text-align: center;
+}
+.TabMenu {
+  width: 990px;
+  height: 84px;
+  margin: 144px 517px;
+}
+
+.Inputfield {
+  width: 945px;
+  height: 83px;
+  margin: 167px 213px;
+}
+.Shape {
+  width: 76.08%;
+  height: 100%;
+  border-radius: 8px;
+  margin: 226px 0px;
+  background-color: #ffffff;
+  border-color: #888888;
+  border-width: 2px;
+}
+.Label {
+  width: 216px;
+  height: 48px;
+  color: #000000;
+  font-family: Inter, sans-serif;
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 46.875px;
+  text-align: right;
+}
+.Value {
+  width: 115.34%;
+  height: 57.83%;
+  margin: 246px 17px;
+  color: #000000;
+  font-family: Inter, sans-serif;
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 46.875px;
+}
+
+.Button {
+  width: 450px;
+  height: 120px;
+  border-radius: 16px;
+  margin: 417px 321px;
+  background-color: #2d9cdb;
+}
+.Label {
+  width: 40%;
+  height: 40%;
+  margin: 135px 36px;
+  color: #ffffff;
+  font-family: Inter, sans-serif;
+  font-size: 40px;
+  line-height: 46.875px;
+  text-align: center;
+  text-align-vertical: center;
+}
+
+.Code {
+  width: 990px;
+  height: 422px;
+  margin: 144px 601px;
+}
+.Rectangle1 {
+  width: 100%;
+  height: 100%;
+  border-radius: 8px;
+  background-color: #ffffff;
+  border-color: #dddddd;
+  border-width: 1px;
+}
+.Outputcode {
+  width: 95.56%;
+  height: 6.87%;
+  margin: 23px 24px;
+  color: #000000;
+  font-family: Inter, sans-serif;
+  font-size: 24px;
+  line-height: 28.125px;
+}
+
+.TabButton {
+  width: 330px;
+  height: 84px;
+}
+.Shape {
+  width: 100%;
+  height: 100%;
+  border-radius: 8px;
+  background-color: #eeeeee;
+  border-color: #000000;
+  border-width: 2px;
+}
+.Label {
+  width: 100%;
+  height: 57.14%;
+  color: #000000;
+  font-family: Inter, sans-serif;
+  font-size: 40px;
+  line-height: 46.875px;
+  text-align: center;
+  text-align-vertical: center;
+}
